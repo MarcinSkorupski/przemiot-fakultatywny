@@ -1,7 +1,7 @@
 # Przemiot fakultatywny
 Zespół MałoKreatywni
  - Marcin Skorupski
- - Bartłomiej ślesiński
+ - Bartłomiej Ślesiński
  - Kamil Starczewski
  - Tomasz Szafrański
  - Szymon Sender
