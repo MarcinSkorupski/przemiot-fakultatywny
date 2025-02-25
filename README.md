@@ -1,4 +1,4 @@
-# przemiot-fakultatywny
+# Przemiot fakultatywny
 Zespół MałoKreatywni
  - Marcin Skorupski
  - Bartłomiej ślesiński
